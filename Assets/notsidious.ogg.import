@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/notsidious.ogg-e1ae8145ad9d6d5d9314d6a5b137e8a6.oggstr"
+
+[deps]
+
+source_file="res://Assets/notsidious.ogg"
+dest_files=[ "res://.import/notsidious.ogg-e1ae8145ad9d6d5d9314d6a5b137e8a6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

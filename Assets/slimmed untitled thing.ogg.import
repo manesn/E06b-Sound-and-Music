@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/slimmed untitled thing.ogg-58764003d652f1c1784cb4b59b2a746d.oggstr"
+
+[deps]
+
+source_file="res://Assets/slimmed untitled thing.ogg"
+dest_files=[ "res://.import/slimmed untitled thing.ogg-58764003d652f1c1784cb4b59b2a746d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

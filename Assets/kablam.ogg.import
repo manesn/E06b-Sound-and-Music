@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/kablam.ogg-fca80222de43d5196d64fabe6b9c9275.oggstr"
+
+[deps]
+
+source_file="res://Assets/kablam.ogg"
+dest_files=[ "res://.import/kablam.ogg-fca80222de43d5196d64fabe6b9c9275.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

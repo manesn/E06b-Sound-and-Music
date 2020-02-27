@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/whirl.ogg-a85aae78690425c2b184209f6a84b0c7.oggstr"
+
+[deps]
+
+source_file="res://Assets/whirl.ogg"
+dest_files=[ "res://.import/whirl.ogg-a85aae78690425c2b184209f6a84b0c7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
