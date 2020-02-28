@@ -15,3 +15,9 @@ Import and open the project in Godot. You will see four AudioStreamPlayer nodes,
 As always, update the LICENSE and README.md.
 
 When you are done, commit and push your changes to GitHub. Then submit the URL of your repository on Canvas.
+
+
+# That's said and done.
+
+# A note- the music file has a delay at the beginning due to Musescore being bothersome, but I did compose a song.
+# One of the sounds I recorded ("notsidious.ogg") gets partially cut off when you enter game mode. Check the sound out in editing mode, it plays fine there. Definitely my favorite of the three I produced.
